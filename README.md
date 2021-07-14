@@ -10,3 +10,4 @@ formData = {};
 ```javascript
 formData["param1"] = "テスト";
 ```
+formData のプロパティは formData["プロパティ文字列"] に値をセットして作成される
