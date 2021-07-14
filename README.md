@@ -6,3 +6,4 @@ ajax の get を行う為のテンプレート
 ```javascript
 formData = {};
 ```
+{} は 空の json オブジェクト
