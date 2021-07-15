@@ -1,7 +1,6 @@
-# sample-ajax
-授業中のリソースの置き場所
-
+# 授業中のリソースの置き場所 : 07/14(水)
 ajax の get を行う為のテンプレート
+
 ## jQuery 側の json オブジェクトの準備
 ```javascript
 formData = {};
